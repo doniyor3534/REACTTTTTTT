@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.header{
+    width: 100%;
+    height: auto;
+    padding: 20px 10%;
+    background-color: #000000;
+}
+.header h1{
+    color: white;
+    text-align: center;
+}
